@@ -5,6 +5,7 @@
 ![](https://img.shields.io/github/issues/devalexandre/moleculer-db-adapter-sequelize)
 ![](https://img.shields.io/github/forks/devalexandre/moleculer-db-adapter-sequelize)
 ![](https://img.shields.io/github/stars/devalexandre/moleculer-db-adapter-sequelize)
+![](https://img.shields.io/github/v/release/devalexandre/moleculer-db-adapter-sequelize.svg)
 
 SQL adapter (Postgres, MySQL, SQLite, MSSQL & CockrachDB ) for Moleculer DB service with [sequelize-cockroachdb](https://github.com/cockroachdb/sequelize-cockroachdb).
 
