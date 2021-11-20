@@ -1,6 +1,6 @@
 ![Moleculer logo](https://res.cloudinary.com/dqr3haveu/image/upload/v1637382763/cockroachdb-moleculer-banner_db02cp.png)
 
-# moleculer-db-adapter-sequelize [![NPM version](https://img.shields.io/npm/v/moleculer-db-adapter-sequelize.svg)](https://www.npmjs.com/package/moleculer-db-adapter-sequelize)
+# moleculer-db-adapter-sequelize [![NPM version](https://img.shields.io/npm/v/@indevweb/moleculer-db-adapter-sequelize.svg)](https://www.npmjs.com/package/@indevweb/moleculer-db-adapter-sequelizee)
 
 ![](https://img.shields.io/github/issues/devalexandre/moleculer-db-adapter-sequelize)
 ![](https://img.shields.io/github/forks/devalexandre/moleculer-db-adapter-sequelize)
@@ -9,6 +9,8 @@
 SQL adapter (Postgres, MySQL, SQLite & MSSQL) for Moleculer DB service with [sequelize-cockroachdb](https://github.com/cockroachdb/sequelize-cockroachdb).
 
 # Features
+- CockroachDb Support
+- Sequelize 6 Support
 
 # Install
 
@@ -139,7 +141,4 @@ $ npm run ci
 # License
 The project is available under the [MIT license](https://tldrlegal.com/license/mit-license).
 
-# Contact
-Copyright (c) 2016-2020 MoleculerJS
 
-[![@moleculerjs](https://img.shields.io/badge/github-moleculerjs-green.svg)](https://github.com/moleculerjs) [![@MoleculerJS](https://img.shields.io/badge/twitter-MoleculerJS-blue.svg)](https://twitter.com/MoleculerJS)
