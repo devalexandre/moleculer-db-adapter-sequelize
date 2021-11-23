@@ -1,6 +1,6 @@
 {
   "name": "@indevweb/moleculer-db-adapter-sequelize",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "SQL adapter (Postgres, MySQL, SQLite , MSSQL & CockroachDB) for Moleculer DB service",
   "main": "index.js",
   "types": "./index.d.ts",
