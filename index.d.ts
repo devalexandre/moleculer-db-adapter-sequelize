@@ -23,16 +23,11 @@ declare module "moleculer-db-adapter-sequelize" {
 	
     }
 
-  interface Options {
-    dialect: 'mariadb' | 'sqlite' | 'postgres' | 'mssql' | 'mssql' ,
-    dialectOptions?: {
-      [key: string]: any;
-    },
-  }
+
 
   export default class SequelizeDbAdapter  {
 
-      constructor(opts: Options | string );
+      constructor(opts: object | string );
 		/**
 		 * Initialize adapter
 		 *
